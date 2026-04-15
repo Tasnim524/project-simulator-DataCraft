@@ -7,3 +7,8 @@ This task involves creating login validation, password checking, and role-based 
 This feature allows users to add new products to the system with details like product name, price, quantity, and category.
 **Status: Implemented**
 
+## T-24: system Testing and Debugging
+Performed system testing on all modules and fixed identified buge.
+Performed system testing on all modules and fixed indentifed buges.
+**Status: Implemented**
+
