@@ -12,3 +12,7 @@ Performed system testing on all modules and fixed identified buge.
 Performed system testing on all modules and fixed indentifed buges.
 **Status: Implemented**
 
+## T-17: Implement Discount System
+Added discount calculation logic for products and checkout process.
+**status: Implemented**
+
